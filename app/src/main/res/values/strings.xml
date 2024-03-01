@@ -1,0 +1,9 @@
+<resources>
+    <string name="act_1">Activity 1 Portrait</string>
+    <string name="act_2">Activity 2 Portrait</string>
+    <string name="student">Student Sérgio Serra \n Number: 28237</string>
+    <string name="go_act_1">Go Activity 1</string>
+    <string name="go_act_2">Go Activity 2</string>
+    <string name="act_1_2">Activity 1 Landscape</string>
+    <string name="act_2_2">Activity 2 Landscape</string>
+</resources>
